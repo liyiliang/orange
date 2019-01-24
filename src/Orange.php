@@ -9,6 +9,6 @@ class Orange{
 		echo "hello orange";
 	}
         public static function info1(){
-                echo "hello 11";
+                echo "hello 1199999999";
         }
 }
